@@ -16,5 +16,6 @@ export default {
       resolvers: [VantResolver()],
     }),
   ],
+  base: '/hospitalCompanionH5/',
 };
 
